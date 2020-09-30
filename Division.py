@@ -8,5 +8,15 @@ num_2 = int(input(""))
 Quotient = str(num_1 / num_2)
 
 
+Quotient = str(num_1 / num_2)
+
+
+
+print("The quotient is " + Quotient)
+Quotient = str(num_1 / num_2)
+
+
+
+print("The quotient is " + Quotient)
 
 print("The quotient is " + Quotient)
